@@ -1,0 +1,9 @@
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "cmd": "python3 ./src/build.py"
+            }
+        ]
+    }
+}
