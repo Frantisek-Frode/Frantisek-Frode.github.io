@@ -69,3 +69,9 @@ li {
     margin-top: 10px;
     margin-left: 1em;
 }
+
+@media all and (max-width: 699px){
+    body {
+        font-size: 2em;
+    }
+ }
