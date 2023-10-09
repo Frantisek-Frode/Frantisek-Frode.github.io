@@ -70,7 +70,7 @@ li {
     margin-left: 1em;
 }
 
-@media all and (max-width: 699px){
+@media all and (orientation: portrait) {
     body {
         font-size: 2em;
     }
